@@ -2,6 +2,7 @@
 [Inicio](./index.md)
 
 ## Sesión 2
+# primer codigo
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -32,10 +33,8 @@
 </body>
 </html>
 
+# Segundo codigo
 
-# primer codigo
-
-```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -81,12 +80,13 @@
         <footer>
             <p>Copyright 2023- Manuela Orlas</p>
         </footer>
+        ```
   
 </body>
 </html>
-# segundo codigo
-```
-```
+
+
+# Tercer codigo
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -121,12 +121,12 @@
         </aside>
     </main>
     <footer>
-        <p>Copyright 2023 - Mnauela Orlas</p>
+        <p>Copyright 2023 - Manauela Orlas</p>
     </footer>
+    ```
 </body>
 </html>
-# Tercer codigo
-```
+
 
 <!-- Su documentación aquí -->
 
