@@ -29,12 +29,12 @@
         <p>Copyright 2023 - Manuela Orlas</p>
         <p>manurengifo205@gmail.com</p>
     </footer>
-    ```
 </body>
 </html>
-
+  ```
 # Segundo codigo
 
+  ```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -80,13 +80,12 @@
         <footer>
             <p>Copyright 2023- Manuela Orlas</p>
         </footer>
-        ```
-  
 </body>
 </html>
-
+  ```
 
 # Tercer codigo
+  ```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -121,12 +120,11 @@
         </aside>
     </main>
     <footer>
-        <p>Copyright 2023 - Manauela Orlas</p>
+        <p>Copyright 2023 - Manuela Orlas</p>
     </footer>
-    ```
 </body>
 </html>
-
+  ```
 
 <!-- Su documentación aquí -->
 
