@@ -2,6 +2,8 @@
 [Inicio](./index.md)
 
 ## Sesión 3 
+
+
 <!DOCTYPE html>
 <html>
    <head>
@@ -10,7 +12,7 @@
          body {
             font-family: Arial, sans-serif;
          }
-
+'''
          header {
             background-color: #3fd;
             color: black;
@@ -123,6 +125,7 @@
          <br />
          &copy;2023
       </footer>
+      '''
    </body>
 </html>
 
