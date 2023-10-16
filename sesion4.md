@@ -2,6 +2,7 @@
 [Inicio](./index.md)
 
 ## Sesión 4
+```
 <!DOCTYPE html>
 <html lang="en">
    <head>
@@ -137,6 +138,7 @@
       </table>
    </body>
 </html>
+```
 
 <!-- Su documentación aquí -->
 
