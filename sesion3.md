@@ -4,8 +4,6 @@
 ## Sesión 3 
 
 <!DOCTYPE html>
-
-'''
 <html>
    <head>
       <title>Mundo Viajes</title>
@@ -124,10 +122,9 @@
          <br />
          &copy;2023
       </footer>
-      
    </body>
 </html>
-'''
+
 
 <!-- Su documentación aquí -->
 
