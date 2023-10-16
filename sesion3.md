@@ -124,10 +124,9 @@
          <br />
          &copy;2023
       </footer>
-      '''
    </body>
 </html>
-
+'''
 
 
 <!-- Su documentación aquí -->
