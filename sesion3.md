@@ -3,8 +3,9 @@
 
 ## Sesión 3 
 
-'''
 <!DOCTYPE html>
+
+'''
 <html>
    <head>
       <title>Mundo Viajes</title>
@@ -37,7 +38,6 @@
          }
       </style>
    </head>
-
    <body>
       <header>
          <h1>Mundo Viajes</h1>
@@ -127,7 +127,6 @@
       
    </body>
 </html>
-
 '''
 
 <!-- Su documentación aquí -->
