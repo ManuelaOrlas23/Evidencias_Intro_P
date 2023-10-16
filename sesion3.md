@@ -3,6 +3,7 @@
 
 ## Sesión 3 
 
+'''
 <!DOCTYPE html>
 <html>
    <head>
@@ -35,6 +36,7 @@
             text-align: center;
          }
       </style>
+
    </head>
    <body>
       <header>
@@ -122,8 +124,10 @@
          <br />
          &copy;2023
       </footer>
+      '''
    </body>
 </html>
+
 
 
 <!-- Su documentación aquí -->
