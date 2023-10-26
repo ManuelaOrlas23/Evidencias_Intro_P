@@ -36,6 +36,7 @@ Aplica los siguientes estilos usando seleccionadores de clase:
 - Centrar el contenido de la sección <section>
 
 ## Desarrollo 
+'''
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -86,6 +87,7 @@ Aplica los siguientes estilos usando seleccionadores de clase:
      </footer>
 </body>
 </html>
+'''
 <!-- Su documentación aquí -->
 
 
