@@ -37,8 +37,6 @@ Aplica los siguientes estilos usando seleccionadores de clase:
 
 ## Desarrollo 
 
-'''
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -90,7 +88,6 @@ Aplica los siguientes estilos usando seleccionadores de clase:
 </body>
 </html>
 
-'''
 <!-- Su documentación aquí -->
 
 
